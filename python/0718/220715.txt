@@ -1,8 +1,0 @@
-커밋 메세지를 수정하는 방법? git amend (git reset --soft [commit id]) soft 말고 mixed hard 도 존재
-
-git rebase -i HEAD~3 
-이건 왜 안됐을까?
-
-전 버전으로 돌아가서 수정하고
-git log --all 해보기
-
